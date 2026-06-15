@@ -4,6 +4,13 @@
   "title": "TWBTWB Official Demo Registry",
   "sites": [
     {
+      "name": "demo",
+      "title": "TWBTWB Demo",
+      "url": "https://twbtwb-demo.pages.dev/",
+      "description": "Official TWBTWB demo site with navigation, forms, tables, fetch, permissions, and TWScript examples",
+      "tags": ["demo", "official", "examples", "twscript", "forms", "fetch"]
+    },
+    {
       "name": "weather",
       "title": "TWBTWB Weather",
       "url": "https://twbtwb-weather.pages.dev/",
