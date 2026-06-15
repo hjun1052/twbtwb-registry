@@ -16,6 +16,46 @@
       "url": "https://twbtwb-weather.pages.dev/",
       "description": "Open-Meteo weather site for TWBTWB",
       "tags": ["weather", "utility", "demo"]
+    },
+    {
+      "name": "clipkit",
+      "title": "Clipkit",
+      "url": "https://twbtwb-demo.pages.dev/clipkit/",
+      "manifest_url": "https://twbtwb-demo.pages.dev/clipkit/.well-known/twbtwb-site.json",
+      "description": "Clipboard, note storage, and text download utilities for TWBTWB",
+      "tags": ["utility", "clipboard", "downloads", "storage", "twscript"]
+    },
+    {
+      "name": "capsule",
+      "title": "Time Capsule",
+      "url": "https://twbtwb-demo.pages.dev/capsule/",
+      "manifest_url": "https://twbtwb-demo.pages.dev/capsule/.well-known/twbtwb-site.json",
+      "description": "A local note capsule with save, restore, copy, and download actions",
+      "tags": ["utility", "notes", "storage", "clipboard", "downloads"]
+    },
+    {
+      "name": "pulse",
+      "title": "Terminal Pulse",
+      "url": "https://twbtwb-demo.pages.dev/pulse/",
+      "manifest_url": "https://twbtwb-demo.pages.dev/pulse/.well-known/twbtwb-site.json",
+      "description": "A tiny JSON-powered dashboard using fetch_json_many",
+      "tags": ["dashboard", "fetch", "json", "demo", "twscript"]
+    },
+    {
+      "name": "navigator",
+      "title": "Navigator",
+      "url": "https://twbtwb-demo.pages.dev/navigator/",
+      "manifest_url": "https://twbtwb-demo.pages.dev/navigator/.well-known/twbtwb-site.json",
+      "description": "A location card utility using TWBTWB location, clipboard, and download permissions",
+      "tags": ["utility", "location", "clipboard", "downloads"]
+    },
+    {
+      "name": "oracle",
+      "title": "Button Oracle",
+      "url": "https://twbtwb-demo.pages.dev/oracle/",
+      "manifest_url": "https://twbtwb-demo.pages.dev/oracle/.well-known/twbtwb-site.json",
+      "description": "A playful hidden-text oracle using only TWScript buttons",
+      "tags": ["fun", "game", "sound", "twscript"]
     }
   ]
 }
