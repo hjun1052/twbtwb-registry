@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "registries": [
+    {
+      "name": "official-demo",
+      "title": "TWBTWB Official Demo Registry",
+      "url": "https://raw.githubusercontent.com/hjun1052/twbtwb-registry/main/registries/official-demo.json"
+    }
+  ]
+}

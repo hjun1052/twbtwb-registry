@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "name": "official-demo",
+  "title": "TWBTWB Official Demo Registry",
+  "sites": [
+    {
+      "name": "weather",
+      "title": "TWBTWB Weather",
+      "url": "https://twbtwb-weather.pages.dev/",
+      "description": "Open-Meteo weather site for TWBTWB",
+      "tags": ["weather", "utility", "demo"]
+    }
+  ]
+}
