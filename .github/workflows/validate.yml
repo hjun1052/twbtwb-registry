@@ -1,0 +1,21 @@
+name: Registry Validation
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate-registry:
+    name: validate-registry
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out registry
+        uses: actions/checkout@v4
+
+      - name: Validate registry JSON
+        run: python3 scripts/validate_registry.py
