@@ -64,6 +64,14 @@
       "manifest_url": "https://twbtwb-demo.pages.dev/retro/.well-known/twbtwb-site.json",
       "description": "A dense retro news-portal layout demo using bars, boxes, columns, and pixel art",
       "tags": ["layout", "retro", "portal", "pixel", "demo"]
+    },
+    {
+      "name": "overdrive",
+      "title": "Overdrive",
+      "url": "https://twbtwb-demo.pages.dev/overdrive/",
+      "manifest_url": "https://twbtwb-demo.pages.dev/overdrive/.well-known/twbtwb-site.json",
+      "description": "A maximal TWBTWB showcase combining layout, forms, TWScript, JSON hydration, storage, clipboard, downloads, notifications, sound, and location",
+      "tags": ["showcase", "layout", "twscript", "forms", "fetch", "permissions", "extreme"]
     }
   ]
 }
