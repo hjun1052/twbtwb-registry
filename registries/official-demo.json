@@ -72,6 +72,14 @@
       "manifest_url": "https://twbtwb-demo.pages.dev/overdrive/.well-known/twbtwb-site.json",
       "description": "A maximal TWBTWB showcase combining layout, forms, TWScript, JSON hydration, storage, clipboard, downloads, notifications, sound, and location",
       "tags": ["showcase", "layout", "twscript", "forms", "fetch", "permissions", "extreme"]
+    },
+    {
+      "name": "kinetic",
+      "title": "Kinetic Canvas",
+      "url": "https://twbtwb-demo.pages.dev/kinetic/",
+      "manifest_url": "https://twbtwb-demo.pages.dev/kinetic/.well-known/twbtwb-site.json",
+      "description": "A moving rainbow terminal canvas demo using TWScript tick and key handlers",
+      "tags": ["canvas", "animation", "keyboard", "game", "twscript", "demo"]
     }
   ]
 }
