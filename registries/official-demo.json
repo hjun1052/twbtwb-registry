@@ -56,6 +56,14 @@
       "manifest_url": "https://twbtwb-demo.pages.dev/oracle/.well-known/twbtwb-site.json",
       "description": "A playful hidden-text oracle using only TWScript buttons",
       "tags": ["fun", "game", "sound", "twscript"]
+    },
+    {
+      "name": "retro",
+      "title": "Retro Portal",
+      "url": "https://twbtwb-demo.pages.dev/retro/",
+      "manifest_url": "https://twbtwb-demo.pages.dev/retro/.well-known/twbtwb-site.json",
+      "description": "A dense retro news-portal layout demo using bars, boxes, columns, and pixel art",
+      "tags": ["layout", "retro", "portal", "pixel", "demo"]
     }
   ]
 }
