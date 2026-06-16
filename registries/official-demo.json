@@ -80,6 +80,14 @@
       "manifest_url": "https://twbtwb-demo.pages.dev/kinetic/.well-known/twbtwb-site.json",
       "description": "A moving rainbow terminal canvas demo using TWScript tick and key handlers",
       "tags": ["canvas", "animation", "keyboard", "game", "twscript", "demo"]
+    },
+    {
+      "name": "breakout",
+      "title": "TW Breakout",
+      "url": "https://twbtwb-demo.pages.dev/breakout/",
+      "manifest_url": "https://twbtwb-demo.pages.dev/breakout/.well-known/twbtwb-site.json",
+      "description": "A tiny Breakout-style game built with TWBTWB canvas, tick, key handlers, and TWScript conditionals",
+      "tags": ["game", "canvas", "animation", "keyboard", "twscript", "demo"]
     }
   ]
 }
